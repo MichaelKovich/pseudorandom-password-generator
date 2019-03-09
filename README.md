@@ -1,2 +1,3 @@
-# pseudorandom-password-generator
-A pseudorandom password generator.
+# Pseudorandom Password Generator
+
+Run the program to generate a 55-character long pseudorandom password.
